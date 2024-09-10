@@ -1,0 +1,24 @@
+canvas {
+        background-color: #f0f0f0;
+        display: block;
+        margin: 0 auto;
+        border: 2px solid #000;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+    
+    #titulo {
+        text-align: center;
+        font-size: 24px;
+        color: #333;
+        margin-top: 20px;
+        font-family: 'Arial', sans-serif;
+    }
+    
+    #pontuacao {
+        text-align: center;
+        font-size: 28px;
+        color: #555;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        font-family: 'Arial', sans-serif;
+    }
